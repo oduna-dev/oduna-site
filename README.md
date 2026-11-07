@@ -10,14 +10,14 @@ Plain static files, no build step:
 
 ## Brand
 
-| Role | Hex |
-| --- | --- |
-| Abyss (dark background) | `#07122B` |
-| Navy (surface, text on light) | `#0B1F4A` |
-| Royal | `#1E4FD8` |
-| Azure (accent on dark) | `#4C8DFF` |
-| Ice (text on dark) | `#DCE8FF` |
-| Paper (light background) | `#F5F8FF` |
+| Role                                    | Hex                    |
+| --------------------------------------- | ---------------------- |
+| Abyss (dark background)                 | `#07122B`              |
+| Navy (surface, text on light)           | `#0B1F4A`              |
+| Royal                                   | `#1E4FD8`              |
+| Azure (accent on dark)                  | `#4C8DFF`              |
+| Ice (text on dark)                      | `#DCE8FF`              |
+| Paper (light background)                | `#F5F8FF`              |
 | Ember to Blossom (warm accent gradient) | `#FFB36B` to `#FF6FA8` |
 
 Wordmark: Syne Medium (500), lowercase.
